@@ -1,2 +1,2 @@
-# FirstJavaScript
-My First JavaScript Repository
+# FirstJavaScript_Readme-Edit
+Learning to use GitHub.. First Commit!!
